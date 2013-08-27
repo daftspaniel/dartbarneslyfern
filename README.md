@@ -1,4 +1,4 @@
-dartbarneslyfern
+ Barnsley Fern
 ================
 
-Dart implementation Barnesly fern fractal.
+Dart implementation Barnsley fern fractal.
